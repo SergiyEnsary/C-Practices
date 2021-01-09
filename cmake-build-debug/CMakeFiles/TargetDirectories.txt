@@ -1,0 +1,3 @@
+/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir
