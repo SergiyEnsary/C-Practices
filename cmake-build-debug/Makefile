@@ -143,6 +143,60 @@ C_Practices/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/build
 .PHONY : C_Practices/fast
 
+Chapter-01/char_count.o: Chapter-01/char_count.c.o
+
+.PHONY : Chapter-01/char_count.o
+
+# target to build an object file
+Chapter-01/char_count.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.o
+.PHONY : Chapter-01/char_count.c.o
+
+Chapter-01/char_count.i: Chapter-01/char_count.c.i
+
+.PHONY : Chapter-01/char_count.i
+
+# target to preprocess a source file
+Chapter-01/char_count.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.i
+.PHONY : Chapter-01/char_count.c.i
+
+Chapter-01/char_count.s: Chapter-01/char_count.c.s
+
+.PHONY : Chapter-01/char_count.s
+
+# target to generate assembly for a file
+Chapter-01/char_count.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.s
+.PHONY : Chapter-01/char_count.c.s
+
+Chapter-01/filecopying.o: Chapter-01/filecopying.c.o
+
+.PHONY : Chapter-01/filecopying.o
+
+# target to build an object file
+Chapter-01/filecopying.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/filecopying.c.o
+.PHONY : Chapter-01/filecopying.c.o
+
+Chapter-01/filecopying.i: Chapter-01/filecopying.c.i
+
+.PHONY : Chapter-01/filecopying.i
+
+# target to preprocess a source file
+Chapter-01/filecopying.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/filecopying.c.i
+.PHONY : Chapter-01/filecopying.c.i
+
+Chapter-01/filecopying.s: Chapter-01/filecopying.c.s
+
+.PHONY : Chapter-01/filecopying.s
+
+# target to generate assembly for a file
+Chapter-01/filecopying.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/filecopying.c.s
+.PHONY : Chapter-01/filecopying.c.s
+
 Chapter-01/hello.o: Chapter-01/hello.c.o
 
 .PHONY : Chapter-01/hello.o
@@ -169,6 +223,33 @@ Chapter-01/hello.s: Chapter-01/hello.c.s
 Chapter-01/hello.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/hello.c.s
 .PHONY : Chapter-01/hello.c.s
+
+Chapter-01/line_count.o: Chapter-01/line_count.c.o
+
+.PHONY : Chapter-01/line_count.o
+
+# target to build an object file
+Chapter-01/line_count.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/line_count.c.o
+.PHONY : Chapter-01/line_count.c.o
+
+Chapter-01/line_count.i: Chapter-01/line_count.c.i
+
+.PHONY : Chapter-01/line_count.i
+
+# target to preprocess a source file
+Chapter-01/line_count.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/line_count.c.i
+.PHONY : Chapter-01/line_count.c.i
+
+Chapter-01/line_count.s: Chapter-01/line_count.c.s
+
+.PHONY : Chapter-01/line_count.s
+
+# target to generate assembly for a file
+Chapter-01/line_count.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/line_count.c.s
+.PHONY : Chapter-01/line_count.c.s
 
 Chapter-01/main.o: Chapter-01/main.c.o
 
@@ -233,9 +314,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C_Practices"
+	@echo "... Chapter-01/char_count.o"
+	@echo "... Chapter-01/char_count.i"
+	@echo "... Chapter-01/char_count.s"
+	@echo "... Chapter-01/filecopying.o"
+	@echo "... Chapter-01/filecopying.i"
+	@echo "... Chapter-01/filecopying.s"
 	@echo "... Chapter-01/hello.o"
 	@echo "... Chapter-01/hello.i"
 	@echo "... Chapter-01/hello.s"
+	@echo "... Chapter-01/line_count.o"
+	@echo "... Chapter-01/line_count.i"
+	@echo "... Chapter-01/line_count.s"
 	@echo "... Chapter-01/main.o"
 	@echo "... Chapter-01/main.i"
 	@echo "... Chapter-01/main.s"
