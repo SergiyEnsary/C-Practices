@@ -143,6 +143,33 @@ C_Practices/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/build
 .PHONY : C_Practices/fast
 
+Chapter-01/arrays.o: Chapter-01/arrays.c.o
+
+.PHONY : Chapter-01/arrays.o
+
+# target to build an object file
+Chapter-01/arrays.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o
+.PHONY : Chapter-01/arrays.c.o
+
+Chapter-01/arrays.i: Chapter-01/arrays.c.i
+
+.PHONY : Chapter-01/arrays.i
+
+# target to preprocess a source file
+Chapter-01/arrays.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.i
+.PHONY : Chapter-01/arrays.c.i
+
+Chapter-01/arrays.s: Chapter-01/arrays.c.s
+
+.PHONY : Chapter-01/arrays.s
+
+# target to generate assembly for a file
+Chapter-01/arrays.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.s
+.PHONY : Chapter-01/arrays.c.s
+
 Chapter-01/char_count.o: Chapter-01/char_count.c.o
 
 .PHONY : Chapter-01/char_count.o
@@ -305,6 +332,33 @@ Chapter-01/temperature.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/temperature.c.s
 .PHONY : Chapter-01/temperature.c.s
 
+Chapter-01/word_count.o: Chapter-01/word_count.c.o
+
+.PHONY : Chapter-01/word_count.o
+
+# target to build an object file
+Chapter-01/word_count.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.o
+.PHONY : Chapter-01/word_count.c.o
+
+Chapter-01/word_count.i: Chapter-01/word_count.c.i
+
+.PHONY : Chapter-01/word_count.i
+
+# target to preprocess a source file
+Chapter-01/word_count.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.i
+.PHONY : Chapter-01/word_count.c.i
+
+Chapter-01/word_count.s: Chapter-01/word_count.c.s
+
+.PHONY : Chapter-01/word_count.s
+
+# target to generate assembly for a file
+Chapter-01/word_count.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.s
+.PHONY : Chapter-01/word_count.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -314,6 +368,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C_Practices"
+	@echo "... Chapter-01/arrays.o"
+	@echo "... Chapter-01/arrays.i"
+	@echo "... Chapter-01/arrays.s"
 	@echo "... Chapter-01/char_count.o"
 	@echo "... Chapter-01/char_count.i"
 	@echo "... Chapter-01/char_count.s"
@@ -332,6 +389,9 @@ help:
 	@echo "... Chapter-01/temperature.o"
 	@echo "... Chapter-01/temperature.i"
 	@echo "... Chapter-01/temperature.s"
+	@echo "... Chapter-01/word_count.o"
+	@echo "... Chapter-01/word_count.i"
+	@echo "... Chapter-01/word_count.s"
 .PHONY : help
 
 

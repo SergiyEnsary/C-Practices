@@ -76,6 +76,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/arrays.c">
+			<Option target="C_Practices"/>
+		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/char_count.c">
 			<Option target="C_Practices"/>
 		</Unit>
@@ -92,6 +95,9 @@
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/temperature.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/word_count.c">
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/CMakeLists.txt">

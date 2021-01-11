@@ -9,4 +9,4 @@ add_executable(C_Practices
         Chapter-01/main.c
         Chapter-01/filecopying.c
         Chapter-01/char_count.c
-        Chapter-01/line_count.c)
+        Chapter-01/line_count.c Chapter-01/word_count.c Chapter-01/arrays.c)
