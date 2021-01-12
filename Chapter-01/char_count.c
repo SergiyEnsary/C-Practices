@@ -13,7 +13,7 @@ int count_one(){
         ++nc;
     }
     printf("%1d\n", nc);
-    return 1;
+    return 0;
 }
 
 /* count characters in input; 1st version */
@@ -23,5 +23,5 @@ int count_two(){
     for (nc = 0; getchar() != EOF; ++nc)
         ;
     printf("%.0f\n", nc);
-    return 1;
+    return 0;
 }

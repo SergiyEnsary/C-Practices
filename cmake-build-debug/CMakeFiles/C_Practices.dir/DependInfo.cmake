@@ -6,10 +6,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/arrays.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/char_count.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.o"
+  "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/external.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/filecopying.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/filecopying.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/hello.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/hello.c.o"
+  "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/line_count.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/line_count.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/main.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/main.c.o"
+  "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/power.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/temperature.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/temperature.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/word_count.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.o"
   )

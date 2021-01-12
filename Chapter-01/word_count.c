@@ -25,5 +25,5 @@ int main (){
         }
     }
     printf("%d %d %d\n", n1, nw, nc);
-    return 1;
+    return 0;
 }

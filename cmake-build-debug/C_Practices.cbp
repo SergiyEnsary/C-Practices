@@ -82,16 +82,25 @@
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/char_count.c">
 			<Option target="C_Practices"/>
 		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c">
+			<Option target="C_Practices"/>
+		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/filecopying.c">
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/hello.c">
 			<Option target="C_Practices"/>
 		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c">
+			<Option target="C_Practices"/>
+		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/line_count.c">
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/main.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c">
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/temperature.c">

@@ -181,6 +181,45 @@ CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/arrays.c" -o CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.s
 
+CMakeFiles/C_Practices.dir/Chapter-01/power.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-01/power.c.o: ../Chapter-01/power.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/C_Practices.dir/Chapter-01/power.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-01/power.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c"
+
+CMakeFiles/C_Practices.dir/Chapter-01/power.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-01/power.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c" > CMakeFiles/C_Practices.dir/Chapter-01/power.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-01/power.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-01/power.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c" -o CMakeFiles/C_Practices.dir/Chapter-01/power.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o: ../Chapter-01/input_line.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c"
+
+CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c" > CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c" -o CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-01/external.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-01/external.c.o: ../Chapter-01/external.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/C_Practices.dir/Chapter-01/external.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-01/external.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c"
+
+CMakeFiles/C_Practices.dir/Chapter-01/external.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-01/external.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c" > CMakeFiles/C_Practices.dir/Chapter-01/external.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-01/external.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-01/external.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c" -o CMakeFiles/C_Practices.dir/Chapter-01/external.c.s
+
 # Object files for target C_Practices
 C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-01/hello.c.o" \
@@ -190,7 +229,10 @@ C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-01/line_count.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.o" \
-"CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o"
+"CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-01/power.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-01/external.c.o"
 
 # External object files for target C_Practices
 C_Practices_EXTERNAL_OBJECTS =
@@ -203,9 +245,12 @@ C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/line_count.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/power.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/external.c.o
 C_Practices: CMakeFiles/C_Practices.dir/build.make
 C_Practices: CMakeFiles/C_Practices.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable C_Practices"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable C_Practices"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Practices.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

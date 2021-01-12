@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/filecopying.c
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/arrays.c
+stdio.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/char_count.c
+stdio.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c
+stdio.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/line_count.c
 stdio.h
 -
 
@@ -14,7 +26,11 @@ stdio.h
 stdio.h
 -
 
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/temperature.c
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c
+stdio.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/word_count.c
 stdio.h
 -
 

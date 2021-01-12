@@ -197,6 +197,33 @@ Chapter-01/char_count.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.s
 .PHONY : Chapter-01/char_count.c.s
 
+Chapter-01/external.o: Chapter-01/external.c.o
+
+.PHONY : Chapter-01/external.o
+
+# target to build an object file
+Chapter-01/external.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/external.c.o
+.PHONY : Chapter-01/external.c.o
+
+Chapter-01/external.i: Chapter-01/external.c.i
+
+.PHONY : Chapter-01/external.i
+
+# target to preprocess a source file
+Chapter-01/external.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/external.c.i
+.PHONY : Chapter-01/external.c.i
+
+Chapter-01/external.s: Chapter-01/external.c.s
+
+.PHONY : Chapter-01/external.s
+
+# target to generate assembly for a file
+Chapter-01/external.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/external.c.s
+.PHONY : Chapter-01/external.c.s
+
 Chapter-01/filecopying.o: Chapter-01/filecopying.c.o
 
 .PHONY : Chapter-01/filecopying.o
@@ -251,6 +278,33 @@ Chapter-01/hello.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/hello.c.s
 .PHONY : Chapter-01/hello.c.s
 
+Chapter-01/input_line.o: Chapter-01/input_line.c.o
+
+.PHONY : Chapter-01/input_line.o
+
+# target to build an object file
+Chapter-01/input_line.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o
+.PHONY : Chapter-01/input_line.c.o
+
+Chapter-01/input_line.i: Chapter-01/input_line.c.i
+
+.PHONY : Chapter-01/input_line.i
+
+# target to preprocess a source file
+Chapter-01/input_line.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.i
+.PHONY : Chapter-01/input_line.c.i
+
+Chapter-01/input_line.s: Chapter-01/input_line.c.s
+
+.PHONY : Chapter-01/input_line.s
+
+# target to generate assembly for a file
+Chapter-01/input_line.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.s
+.PHONY : Chapter-01/input_line.c.s
+
 Chapter-01/line_count.o: Chapter-01/line_count.c.o
 
 .PHONY : Chapter-01/line_count.o
@@ -304,6 +358,33 @@ Chapter-01/main.s: Chapter-01/main.c.s
 Chapter-01/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/main.c.s
 .PHONY : Chapter-01/main.c.s
+
+Chapter-01/power.o: Chapter-01/power.c.o
+
+.PHONY : Chapter-01/power.o
+
+# target to build an object file
+Chapter-01/power.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/power.c.o
+.PHONY : Chapter-01/power.c.o
+
+Chapter-01/power.i: Chapter-01/power.c.i
+
+.PHONY : Chapter-01/power.i
+
+# target to preprocess a source file
+Chapter-01/power.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/power.c.i
+.PHONY : Chapter-01/power.c.i
+
+Chapter-01/power.s: Chapter-01/power.c.s
+
+.PHONY : Chapter-01/power.s
+
+# target to generate assembly for a file
+Chapter-01/power.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/power.c.s
+.PHONY : Chapter-01/power.c.s
 
 Chapter-01/temperature.o: Chapter-01/temperature.c.o
 
@@ -374,18 +455,27 @@ help:
 	@echo "... Chapter-01/char_count.o"
 	@echo "... Chapter-01/char_count.i"
 	@echo "... Chapter-01/char_count.s"
+	@echo "... Chapter-01/external.o"
+	@echo "... Chapter-01/external.i"
+	@echo "... Chapter-01/external.s"
 	@echo "... Chapter-01/filecopying.o"
 	@echo "... Chapter-01/filecopying.i"
 	@echo "... Chapter-01/filecopying.s"
 	@echo "... Chapter-01/hello.o"
 	@echo "... Chapter-01/hello.i"
 	@echo "... Chapter-01/hello.s"
+	@echo "... Chapter-01/input_line.o"
+	@echo "... Chapter-01/input_line.i"
+	@echo "... Chapter-01/input_line.s"
 	@echo "... Chapter-01/line_count.o"
 	@echo "... Chapter-01/line_count.i"
 	@echo "... Chapter-01/line_count.s"
 	@echo "... Chapter-01/main.o"
 	@echo "... Chapter-01/main.i"
 	@echo "... Chapter-01/main.s"
+	@echo "... Chapter-01/power.o"
+	@echo "... Chapter-01/power.i"
+	@echo "... Chapter-01/power.s"
 	@echo "... Chapter-01/temperature.o"
 	@echo "... Chapter-01/temperature.i"
 	@echo "... Chapter-01/temperature.s"

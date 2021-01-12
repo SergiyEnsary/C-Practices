@@ -12,5 +12,5 @@ int count_line(){
         if (c == '\n')
             ++n1;
     printf("%d\n", n1);
-    return 1;
+    return 0;
 }

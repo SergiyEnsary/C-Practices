@@ -14,7 +14,7 @@ int copy_one(){
         putchar(c);
         c = getchar();
     }
-    return 1;
+    return 0;
 }
 
 /* copy input to output; 2nd version */
@@ -24,5 +24,5 @@ int copy_two(){
     while ((c = getchar()) != EOF) {
         putchar(c);
     }
-    return 1;
+    return 0;
 }

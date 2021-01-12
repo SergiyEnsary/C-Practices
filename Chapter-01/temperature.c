@@ -22,7 +22,7 @@ int fahren(){
     for(fahr = LOWER; fahr <= UPPER; fahr+=STEP){
         printf("%10d\t%7.1f\n", fahr, (5.0/9.0) * (fahr-32));
     }
-    return 1;
+    return 0;
 }
 
 int cels(){
@@ -41,5 +41,5 @@ int cels(){
         printf("%6.0f\t%10.1f\n", celsius, fahr);
         celsius -= step;
     }
-    return 1;
+    return 0;
 }
