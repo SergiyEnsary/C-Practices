@@ -14,6 +14,18 @@ stdio.h
 stdio.h
 -
 
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c
+stdio.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/filecopying.c
+stdio.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/hello.c
+stdio.h
+-
+
 /home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c
 stdio.h
 -
@@ -22,15 +34,21 @@ stdio.h
 stdio.h
 -
 
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/main.c
-stdio.h
--
-
 /home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c
 stdio.h
 -
 
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/temperature.c
+stdio.h
+-
+
 /home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/word_count.c
+stdio.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-02/types.c
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/statements.c
 stdio.h
 -
 

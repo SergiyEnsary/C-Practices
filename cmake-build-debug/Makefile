@@ -440,6 +440,249 @@ Chapter-01/word_count.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.s
 .PHONY : Chapter-01/word_count.c.s
 
+Chapter-02/types.o: Chapter-02/types.c.o
+
+.PHONY : Chapter-02/types.o
+
+# target to build an object file
+Chapter-02/types.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-02/types.c.o
+.PHONY : Chapter-02/types.c.o
+
+Chapter-02/types.i: Chapter-02/types.c.i
+
+.PHONY : Chapter-02/types.i
+
+# target to preprocess a source file
+Chapter-02/types.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-02/types.c.i
+.PHONY : Chapter-02/types.c.i
+
+Chapter-02/types.s: Chapter-02/types.c.s
+
+.PHONY : Chapter-02/types.s
+
+# target to generate assembly for a file
+Chapter-02/types.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-02/types.c.s
+.PHONY : Chapter-02/types.c.s
+
+Chapter-03/atoi.o: Chapter-03/atoi.c.o
+
+.PHONY : Chapter-03/atoi.o
+
+# target to build an object file
+Chapter-03/atoi.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.o
+.PHONY : Chapter-03/atoi.c.o
+
+Chapter-03/atoi.i: Chapter-03/atoi.c.i
+
+.PHONY : Chapter-03/atoi.i
+
+# target to preprocess a source file
+Chapter-03/atoi.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.i
+.PHONY : Chapter-03/atoi.c.i
+
+Chapter-03/atoi.s: Chapter-03/atoi.c.s
+
+.PHONY : Chapter-03/atoi.s
+
+# target to generate assembly for a file
+Chapter-03/atoi.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.s
+.PHONY : Chapter-03/atoi.c.s
+
+Chapter-03/binSearch.o: Chapter-03/binSearch.c.o
+
+.PHONY : Chapter-03/binSearch.o
+
+# target to build an object file
+Chapter-03/binSearch.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.o
+.PHONY : Chapter-03/binSearch.c.o
+
+Chapter-03/binSearch.i: Chapter-03/binSearch.c.i
+
+.PHONY : Chapter-03/binSearch.i
+
+# target to preprocess a source file
+Chapter-03/binSearch.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.i
+.PHONY : Chapter-03/binSearch.c.i
+
+Chapter-03/binSearch.s: Chapter-03/binSearch.c.s
+
+.PHONY : Chapter-03/binSearch.s
+
+# target to generate assembly for a file
+Chapter-03/binSearch.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.s
+.PHONY : Chapter-03/binSearch.c.s
+
+Chapter-03/itoa.o: Chapter-03/itoa.c.o
+
+.PHONY : Chapter-03/itoa.o
+
+# target to build an object file
+Chapter-03/itoa.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o
+.PHONY : Chapter-03/itoa.c.o
+
+Chapter-03/itoa.i: Chapter-03/itoa.c.i
+
+.PHONY : Chapter-03/itoa.i
+
+# target to preprocess a source file
+Chapter-03/itoa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.i
+.PHONY : Chapter-03/itoa.c.i
+
+Chapter-03/itoa.s: Chapter-03/itoa.c.s
+
+.PHONY : Chapter-03/itoa.s
+
+# target to generate assembly for a file
+Chapter-03/itoa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.s
+.PHONY : Chapter-03/itoa.c.s
+
+Chapter-03/reverse.o: Chapter-03/reverse.c.o
+
+.PHONY : Chapter-03/reverse.o
+
+# target to build an object file
+Chapter-03/reverse.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o
+.PHONY : Chapter-03/reverse.c.o
+
+Chapter-03/reverse.i: Chapter-03/reverse.c.i
+
+.PHONY : Chapter-03/reverse.i
+
+# target to preprocess a source file
+Chapter-03/reverse.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.i
+.PHONY : Chapter-03/reverse.c.i
+
+Chapter-03/reverse.s: Chapter-03/reverse.c.s
+
+.PHONY : Chapter-03/reverse.s
+
+# target to generate assembly for a file
+Chapter-03/reverse.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.s
+.PHONY : Chapter-03/reverse.c.s
+
+Chapter-03/shelsort.o: Chapter-03/shelsort.c.o
+
+.PHONY : Chapter-03/shelsort.o
+
+# target to build an object file
+Chapter-03/shelsort.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o
+.PHONY : Chapter-03/shelsort.c.o
+
+Chapter-03/shelsort.i: Chapter-03/shelsort.c.i
+
+.PHONY : Chapter-03/shelsort.i
+
+# target to preprocess a source file
+Chapter-03/shelsort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.i
+.PHONY : Chapter-03/shelsort.c.i
+
+Chapter-03/shelsort.s: Chapter-03/shelsort.c.s
+
+.PHONY : Chapter-03/shelsort.s
+
+# target to generate assembly for a file
+Chapter-03/shelsort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.s
+.PHONY : Chapter-03/shelsort.c.s
+
+Chapter-03/switches.o: Chapter-03/switches.c.o
+
+.PHONY : Chapter-03/switches.o
+
+# target to build an object file
+Chapter-03/switches.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o
+.PHONY : Chapter-03/switches.c.o
+
+Chapter-03/switches.i: Chapter-03/switches.c.i
+
+.PHONY : Chapter-03/switches.i
+
+# target to preprocess a source file
+Chapter-03/switches.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/switches.c.i
+.PHONY : Chapter-03/switches.c.i
+
+Chapter-03/switches.s: Chapter-03/switches.c.s
+
+.PHONY : Chapter-03/switches.s
+
+# target to generate assembly for a file
+Chapter-03/switches.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/switches.c.s
+.PHONY : Chapter-03/switches.c.s
+
+Chapter-03/trim.o: Chapter-03/trim.c.o
+
+.PHONY : Chapter-03/trim.o
+
+# target to build an object file
+Chapter-03/trim.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o
+.PHONY : Chapter-03/trim.c.o
+
+Chapter-03/trim.i: Chapter-03/trim.c.i
+
+.PHONY : Chapter-03/trim.i
+
+# target to preprocess a source file
+Chapter-03/trim.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/trim.c.i
+.PHONY : Chapter-03/trim.c.i
+
+Chapter-03/trim.s: Chapter-03/trim.c.s
+
+.PHONY : Chapter-03/trim.s
+
+# target to generate assembly for a file
+Chapter-03/trim.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/trim.c.s
+.PHONY : Chapter-03/trim.c.s
+
+Chapter-04/patterns.o: Chapter-04/patterns.c.o
+
+.PHONY : Chapter-04/patterns.o
+
+# target to build an object file
+Chapter-04/patterns.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o
+.PHONY : Chapter-04/patterns.c.o
+
+Chapter-04/patterns.i: Chapter-04/patterns.c.i
+
+.PHONY : Chapter-04/patterns.i
+
+# target to preprocess a source file
+Chapter-04/patterns.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.i
+.PHONY : Chapter-04/patterns.c.i
+
+Chapter-04/patterns.s: Chapter-04/patterns.c.s
+
+.PHONY : Chapter-04/patterns.s
+
+# target to generate assembly for a file
+Chapter-04/patterns.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s
+.PHONY : Chapter-04/patterns.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -482,6 +725,33 @@ help:
 	@echo "... Chapter-01/word_count.o"
 	@echo "... Chapter-01/word_count.i"
 	@echo "... Chapter-01/word_count.s"
+	@echo "... Chapter-02/types.o"
+	@echo "... Chapter-02/types.i"
+	@echo "... Chapter-02/types.s"
+	@echo "... Chapter-03/atoi.o"
+	@echo "... Chapter-03/atoi.i"
+	@echo "... Chapter-03/atoi.s"
+	@echo "... Chapter-03/binSearch.o"
+	@echo "... Chapter-03/binSearch.i"
+	@echo "... Chapter-03/binSearch.s"
+	@echo "... Chapter-03/itoa.o"
+	@echo "... Chapter-03/itoa.i"
+	@echo "... Chapter-03/itoa.s"
+	@echo "... Chapter-03/reverse.o"
+	@echo "... Chapter-03/reverse.i"
+	@echo "... Chapter-03/reverse.s"
+	@echo "... Chapter-03/shelsort.o"
+	@echo "... Chapter-03/shelsort.i"
+	@echo "... Chapter-03/shelsort.s"
+	@echo "... Chapter-03/switches.o"
+	@echo "... Chapter-03/switches.i"
+	@echo "... Chapter-03/switches.s"
+	@echo "... Chapter-03/trim.o"
+	@echo "... Chapter-03/trim.i"
+	@echo "... Chapter-03/trim.s"
+	@echo "... Chapter-04/patterns.o"
+	@echo "... Chapter-04/patterns.i"
+	@echo "... Chapter-04/patterns.s"
 .PHONY : help
 
 

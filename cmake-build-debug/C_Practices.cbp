@@ -109,6 +109,33 @@
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/word_count.c">
 			<Option target="C_Practices"/>
 		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-02/types.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/atoi.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/binSearch.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/itoa.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/reverse.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/shelsort.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/switches.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/trim.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c">
+			<Option target="C_Practices"/>
+		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

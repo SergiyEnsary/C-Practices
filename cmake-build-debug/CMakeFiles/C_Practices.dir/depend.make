@@ -5,6 +5,8 @@ CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o: ../Chapter-01/arrays.c
 
 CMakeFiles/C_Practices.dir/Chapter-01/char_count.c.o: ../Chapter-01/char_count.c
 
+CMakeFiles/C_Practices.dir/Chapter-01/external.c.o: ../Chapter-01/external.c
+
 CMakeFiles/C_Practices.dir/Chapter-01/filecopying.c.o: ../Chapter-01/filecopying.c
 
 CMakeFiles/C_Practices.dir/Chapter-01/hello.c.o: ../Chapter-01/hello.c
@@ -20,4 +22,8 @@ CMakeFiles/C_Practices.dir/Chapter-01/power.c.o: ../Chapter-01/power.c
 CMakeFiles/C_Practices.dir/Chapter-01/temperature.c.o: ../Chapter-01/temperature.c
 
 CMakeFiles/C_Practices.dir/Chapter-01/word_count.c.o: ../Chapter-01/word_count.c
+
+CMakeFiles/C_Practices.dir/Chapter-02/types.c.o: ../Chapter-02/types.c
+
+CMakeFiles/C_Practices.dir/Chapter-03/statements.c.o: ../Chapter-03/statements.c
 

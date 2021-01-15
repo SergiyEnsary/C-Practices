@@ -220,6 +220,123 @@ CMakeFiles/C_Practices.dir/Chapter-01/external.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-01/external.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c" -o CMakeFiles/C_Practices.dir/Chapter-01/external.c.s
 
+CMakeFiles/C_Practices.dir/Chapter-02/types.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-02/types.c.o: ../Chapter-02/types.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/C_Practices.dir/Chapter-02/types.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-02/types.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-02/types.c"
+
+CMakeFiles/C_Practices.dir/Chapter-02/types.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-02/types.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-02/types.c" > CMakeFiles/C_Practices.dir/Chapter-02/types.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-02/types.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-02/types.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-02/types.c" -o CMakeFiles/C_Practices.dir/Chapter-02/types.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.o: ../Chapter-03/binSearch.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/binSearch.c"
+
+CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/binSearch.c" > CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/binSearch.c" -o CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o: ../Chapter-03/switches.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/switches.c"
+
+CMakeFiles/C_Practices.dir/Chapter-03/switches.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-03/switches.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/switches.c" > CMakeFiles/C_Practices.dir/Chapter-03/switches.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-03/switches.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-03/switches.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/switches.c" -o CMakeFiles/C_Practices.dir/Chapter-03/switches.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.o: ../Chapter-03/atoi.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/atoi.c"
+
+CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/atoi.c" > CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/atoi.c" -o CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o: ../Chapter-03/shelsort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/shelsort.c"
+
+CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/shelsort.c" > CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/shelsort.c" -o CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o: ../Chapter-03/reverse.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/reverse.c"
+
+CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/reverse.c" > CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/reverse.c" -o CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o: ../Chapter-03/itoa.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/itoa.c"
+
+CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/itoa.c" > CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/itoa.c" -o CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o: ../Chapter-03/trim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/trim.c"
+
+CMakeFiles/C_Practices.dir/Chapter-03/trim.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-03/trim.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/trim.c" > CMakeFiles/C_Practices.dir/Chapter-03/trim.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-03/trim.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-03/trim.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/trim.c" -o CMakeFiles/C_Practices.dir/Chapter-03/trim.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o: ../Chapter-04/patterns.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c"
+
+CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c" > CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c" -o CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s
+
 # Object files for target C_Practices
 C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-01/hello.c.o" \
@@ -232,7 +349,16 @@ C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-01/power.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o" \
-"CMakeFiles/C_Practices.dir/Chapter-01/external.c.o"
+"CMakeFiles/C_Practices.dir/Chapter-01/external.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-02/types.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o"
 
 # External object files for target C_Practices
 C_Practices_EXTERNAL_OBJECTS =
@@ -248,9 +374,18 @@ C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/arrays.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/power.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/input_line.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-01/external.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-02/types.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/binSearch.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/atoi.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o
 C_Practices: CMakeFiles/C_Practices.dir/build.make
 C_Practices: CMakeFiles/C_Practices.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable C_Practices"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Linking C executable C_Practices"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Practices.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
