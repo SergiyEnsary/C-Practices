@@ -133,6 +133,12 @@
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/trim.c">
 			<Option target="C_Practices"/>
 		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/PolishCalculator.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/atof.c">
+			<Option target="C_Practices"/>
+		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c">
 			<Option target="C_Practices"/>
 		</Unit>

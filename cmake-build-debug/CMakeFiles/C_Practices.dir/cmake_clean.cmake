@@ -18,6 +18,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/C_Practices.dir/Chapter-03/shelsort.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-03/switches.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o"
   "C_Practices"
   "C_Practices.pdb"

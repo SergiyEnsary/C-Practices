@@ -656,6 +656,60 @@ Chapter-03/trim.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-03/trim.c.s
 .PHONY : Chapter-03/trim.c.s
 
+Chapter-04/PolishCalculator.o: Chapter-04/PolishCalculator.c.o
+
+.PHONY : Chapter-04/PolishCalculator.o
+
+# target to build an object file
+Chapter-04/PolishCalculator.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o
+.PHONY : Chapter-04/PolishCalculator.c.o
+
+Chapter-04/PolishCalculator.i: Chapter-04/PolishCalculator.c.i
+
+.PHONY : Chapter-04/PolishCalculator.i
+
+# target to preprocess a source file
+Chapter-04/PolishCalculator.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.i
+.PHONY : Chapter-04/PolishCalculator.c.i
+
+Chapter-04/PolishCalculator.s: Chapter-04/PolishCalculator.c.s
+
+.PHONY : Chapter-04/PolishCalculator.s
+
+# target to generate assembly for a file
+Chapter-04/PolishCalculator.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.s
+.PHONY : Chapter-04/PolishCalculator.c.s
+
+Chapter-04/atof.o: Chapter-04/atof.c.o
+
+.PHONY : Chapter-04/atof.o
+
+# target to build an object file
+Chapter-04/atof.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o
+.PHONY : Chapter-04/atof.c.o
+
+Chapter-04/atof.i: Chapter-04/atof.c.i
+
+.PHONY : Chapter-04/atof.i
+
+# target to preprocess a source file
+Chapter-04/atof.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/atof.c.i
+.PHONY : Chapter-04/atof.c.i
+
+Chapter-04/atof.s: Chapter-04/atof.c.s
+
+.PHONY : Chapter-04/atof.s
+
+# target to generate assembly for a file
+Chapter-04/atof.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/atof.c.s
+.PHONY : Chapter-04/atof.c.s
+
 Chapter-04/patterns.o: Chapter-04/patterns.c.o
 
 .PHONY : Chapter-04/patterns.o
@@ -749,6 +803,12 @@ help:
 	@echo "... Chapter-03/trim.o"
 	@echo "... Chapter-03/trim.i"
 	@echo "... Chapter-03/trim.s"
+	@echo "... Chapter-04/PolishCalculator.o"
+	@echo "... Chapter-04/PolishCalculator.i"
+	@echo "... Chapter-04/PolishCalculator.s"
+	@echo "... Chapter-04/atof.o"
+	@echo "... Chapter-04/atof.i"
+	@echo "... Chapter-04/atof.s"
 	@echo "... Chapter-04/patterns.o"
 	@echo "... Chapter-04/patterns.i"
 	@echo "... Chapter-04/patterns.s"

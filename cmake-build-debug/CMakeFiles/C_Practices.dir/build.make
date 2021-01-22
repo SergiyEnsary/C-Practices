@@ -337,6 +337,32 @@ CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c" -o CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s
 
+CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o: ../Chapter-04/atof.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/atof.c"
+
+CMakeFiles/C_Practices.dir/Chapter-04/atof.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-04/atof.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/atof.c" > CMakeFiles/C_Practices.dir/Chapter-04/atof.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-04/atof.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-04/atof.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/atof.c" -o CMakeFiles/C_Practices.dir/Chapter-04/atof.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o: ../Chapter-04/PolishCalculator.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/PolishCalculator.c"
+
+CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/PolishCalculator.c" > CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/PolishCalculator.c" -o CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.s
+
 # Object files for target C_Practices
 C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-01/hello.c.o" \
@@ -358,7 +384,9 @@ C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o" \
-"CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o"
+"CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o"
 
 # External object files for target C_Practices
 C_Practices_EXTERNAL_OBJECTS =
@@ -383,9 +411,11 @@ C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/reverse.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/itoa.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o
 C_Practices: CMakeFiles/C_Practices.dir/build.make
 C_Practices: CMakeFiles/C_Practices.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Linking C executable C_Practices"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable C_Practices"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Practices.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
