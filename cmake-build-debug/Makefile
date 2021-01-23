@@ -710,6 +710,60 @@ Chapter-04/atof.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/atof.c.s
 .PHONY : Chapter-04/atof.c.s
 
+Chapter-04/conditional.o: Chapter-04/conditional.c.o
+
+.PHONY : Chapter-04/conditional.o
+
+# target to build an object file
+Chapter-04/conditional.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o
+.PHONY : Chapter-04/conditional.c.o
+
+Chapter-04/conditional.i: Chapter-04/conditional.c.i
+
+.PHONY : Chapter-04/conditional.i
+
+# target to preprocess a source file
+Chapter-04/conditional.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.i
+.PHONY : Chapter-04/conditional.c.i
+
+Chapter-04/conditional.s: Chapter-04/conditional.c.s
+
+.PHONY : Chapter-04/conditional.s
+
+# target to generate assembly for a file
+Chapter-04/conditional.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.s
+.PHONY : Chapter-04/conditional.c.s
+
+Chapter-04/macro.o: Chapter-04/macro.c.o
+
+.PHONY : Chapter-04/macro.o
+
+# target to build an object file
+Chapter-04/macro.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o
+.PHONY : Chapter-04/macro.c.o
+
+Chapter-04/macro.i: Chapter-04/macro.c.i
+
+.PHONY : Chapter-04/macro.i
+
+# target to preprocess a source file
+Chapter-04/macro.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/macro.c.i
+.PHONY : Chapter-04/macro.c.i
+
+Chapter-04/macro.s: Chapter-04/macro.c.s
+
+.PHONY : Chapter-04/macro.s
+
+# target to generate assembly for a file
+Chapter-04/macro.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/macro.c.s
+.PHONY : Chapter-04/macro.c.s
+
 Chapter-04/patterns.o: Chapter-04/patterns.c.o
 
 .PHONY : Chapter-04/patterns.o
@@ -736,6 +790,60 @@ Chapter-04/patterns.s: Chapter-04/patterns.c.s
 Chapter-04/patterns.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s
 .PHONY : Chapter-04/patterns.c.s
+
+Chapter-05/getint.o: Chapter-05/getint.c.o
+
+.PHONY : Chapter-05/getint.o
+
+# target to build an object file
+Chapter-05/getint.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o
+.PHONY : Chapter-05/getint.c.o
+
+Chapter-05/getint.i: Chapter-05/getint.c.i
+
+.PHONY : Chapter-05/getint.i
+
+# target to preprocess a source file
+Chapter-05/getint.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/getint.c.i
+.PHONY : Chapter-05/getint.c.i
+
+Chapter-05/getint.s: Chapter-05/getint.c.s
+
+.PHONY : Chapter-05/getint.s
+
+# target to generate assembly for a file
+Chapter-05/getint.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/getint.c.s
+.PHONY : Chapter-05/getint.c.s
+
+Chapter-05/pointers.o: Chapter-05/pointers.c.o
+
+.PHONY : Chapter-05/pointers.o
+
+# target to build an object file
+Chapter-05/pointers.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o
+.PHONY : Chapter-05/pointers.c.o
+
+Chapter-05/pointers.i: Chapter-05/pointers.c.i
+
+.PHONY : Chapter-05/pointers.i
+
+# target to preprocess a source file
+Chapter-05/pointers.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.i
+.PHONY : Chapter-05/pointers.c.i
+
+Chapter-05/pointers.s: Chapter-05/pointers.c.s
+
+.PHONY : Chapter-05/pointers.s
+
+# target to generate assembly for a file
+Chapter-05/pointers.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.s
+.PHONY : Chapter-05/pointers.c.s
 
 # Help Target
 help:
@@ -809,9 +917,21 @@ help:
 	@echo "... Chapter-04/atof.o"
 	@echo "... Chapter-04/atof.i"
 	@echo "... Chapter-04/atof.s"
+	@echo "... Chapter-04/conditional.o"
+	@echo "... Chapter-04/conditional.i"
+	@echo "... Chapter-04/conditional.s"
+	@echo "... Chapter-04/macro.o"
+	@echo "... Chapter-04/macro.i"
+	@echo "... Chapter-04/macro.s"
 	@echo "... Chapter-04/patterns.o"
 	@echo "... Chapter-04/patterns.i"
 	@echo "... Chapter-04/patterns.s"
+	@echo "... Chapter-05/getint.o"
+	@echo "... Chapter-05/getint.i"
+	@echo "... Chapter-05/getint.s"
+	@echo "... Chapter-05/pointers.o"
+	@echo "... Chapter-05/pointers.i"
+	@echo "... Chapter-05/pointers.s"
 .PHONY : help
 
 

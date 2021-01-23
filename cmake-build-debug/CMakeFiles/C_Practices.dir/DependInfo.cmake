@@ -25,7 +25,11 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/trim.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/PolishCalculator.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/atof.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o"
+  "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/conditional.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o"
+  "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/macro.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o"
   "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o"
+  "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/getint.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o"
+  "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/pointers.c" "/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -363,6 +363,58 @@ CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/PolishCalculator.c" -o CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.s
 
+CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o: ../Chapter-04/macro.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/macro.c"
+
+CMakeFiles/C_Practices.dir/Chapter-04/macro.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-04/macro.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/macro.c" > CMakeFiles/C_Practices.dir/Chapter-04/macro.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-04/macro.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-04/macro.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/macro.c" -o CMakeFiles/C_Practices.dir/Chapter-04/macro.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o: ../Chapter-04/conditional.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/conditional.c"
+
+CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/conditional.c" > CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/conditional.c" -o CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o: ../Chapter-05/pointers.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/pointers.c"
+
+CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/pointers.c" > CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/pointers.c" -o CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o: ../Chapter-05/getint.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/getint.c"
+
+CMakeFiles/C_Practices.dir/Chapter-05/getint.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-05/getint.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/getint.c" > CMakeFiles/C_Practices.dir/Chapter-05/getint.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-05/getint.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-05/getint.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/getint.c" -o CMakeFiles/C_Practices.dir/Chapter-05/getint.c.s
+
 # Object files for target C_Practices
 C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-01/hello.c.o" \
@@ -386,7 +438,11 @@ C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o" \
-"CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o"
+"CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o"
 
 # External object files for target C_Practices
 C_Practices_EXTERNAL_OBJECTS =
@@ -413,9 +469,13 @@ C_Practices: CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o
 C_Practices: CMakeFiles/C_Practices.dir/build.make
 C_Practices: CMakeFiles/C_Practices.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable C_Practices"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Linking C executable C_Practices"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Practices.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

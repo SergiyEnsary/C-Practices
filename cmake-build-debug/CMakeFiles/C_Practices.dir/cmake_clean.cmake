@@ -20,7 +20,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/C_Practices.dir/Chapter-03/trim.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-04/PolishCalculator.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-04/atof.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o"
   "C_Practices"
   "C_Practices.pdb"
 )

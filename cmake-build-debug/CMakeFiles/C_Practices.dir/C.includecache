@@ -6,49 +6,45 @@
 
 #IncludeRegexTransform: 
 
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/arrays.c
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/atoi.c
+ctype.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/binSearch.c
 stdio.h
 -
 
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/char_count.c
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/itoa.c
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/reverse.c
+string.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/shelsort.c
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/switches.c
 stdio.h
 -
 
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/external.c
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/trim.c
+string.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/PolishCalculator.c
+stdio.h
+-
+stdlib.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/atof.c
+ctype.h
+-
+
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/macro.c
 stdio.h
 -
 
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/filecopying.c
-stdio.h
--
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/hello.c
-stdio.h
--
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/input_line.c
-stdio.h
--
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/line_count.c
-stdio.h
--
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/power.c
-stdio.h
--
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/temperature.c
-stdio.h
--
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-01/word_count.c
-stdio.h
--
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-02/types.c
-
-/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-03/statements.c
+/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c
 stdio.h
 -
 

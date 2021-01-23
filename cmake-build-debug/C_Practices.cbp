@@ -139,7 +139,19 @@
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/atof.c">
 			<Option target="C_Practices"/>
 		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/conditional.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/macro.c">
+			<Option target="C_Practices"/>
+		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/getint.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/pointers.c">
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/CMakeLists.txt">
