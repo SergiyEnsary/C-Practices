@@ -23,8 +23,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o"
   "CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o"
+  "CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o"
   "C_Practices"
   "C_Practices.pdb"
 )

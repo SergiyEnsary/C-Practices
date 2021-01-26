@@ -148,10 +148,22 @@
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-04/patterns.c">
 			<Option target="C_Practices"/>
 		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/allocator.c">
+			<Option target="C_Practices"/>
+		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/getint.c">
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/pointers.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcompare.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcopy.c">
+			<Option target="C_Practices"/>
+		</Unit>
+		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strlength.c">
 			<Option target="C_Practices"/>
 		</Unit>
 		<Unit filename="/home/sergiy/Desktop/C - Learning/C-Practices/CMakeLists.txt">

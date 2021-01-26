@@ -791,6 +791,33 @@ Chapter-04/patterns.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-04/patterns.c.s
 .PHONY : Chapter-04/patterns.c.s
 
+Chapter-05/allocator.o: Chapter-05/allocator.c.o
+
+.PHONY : Chapter-05/allocator.o
+
+# target to build an object file
+Chapter-05/allocator.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o
+.PHONY : Chapter-05/allocator.c.o
+
+Chapter-05/allocator.i: Chapter-05/allocator.c.i
+
+.PHONY : Chapter-05/allocator.i
+
+# target to preprocess a source file
+Chapter-05/allocator.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.i
+.PHONY : Chapter-05/allocator.c.i
+
+Chapter-05/allocator.s: Chapter-05/allocator.c.s
+
+.PHONY : Chapter-05/allocator.s
+
+# target to generate assembly for a file
+Chapter-05/allocator.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.s
+.PHONY : Chapter-05/allocator.c.s
+
 Chapter-05/getint.o: Chapter-05/getint.c.o
 
 .PHONY : Chapter-05/getint.o
@@ -844,6 +871,87 @@ Chapter-05/pointers.s: Chapter-05/pointers.c.s
 Chapter-05/pointers.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.s
 .PHONY : Chapter-05/pointers.c.s
+
+Chapter-05/strcompare.o: Chapter-05/strcompare.c.o
+
+.PHONY : Chapter-05/strcompare.o
+
+# target to build an object file
+Chapter-05/strcompare.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o
+.PHONY : Chapter-05/strcompare.c.o
+
+Chapter-05/strcompare.i: Chapter-05/strcompare.c.i
+
+.PHONY : Chapter-05/strcompare.i
+
+# target to preprocess a source file
+Chapter-05/strcompare.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.i
+.PHONY : Chapter-05/strcompare.c.i
+
+Chapter-05/strcompare.s: Chapter-05/strcompare.c.s
+
+.PHONY : Chapter-05/strcompare.s
+
+# target to generate assembly for a file
+Chapter-05/strcompare.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.s
+.PHONY : Chapter-05/strcompare.c.s
+
+Chapter-05/strcopy.o: Chapter-05/strcopy.c.o
+
+.PHONY : Chapter-05/strcopy.o
+
+# target to build an object file
+Chapter-05/strcopy.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o
+.PHONY : Chapter-05/strcopy.c.o
+
+Chapter-05/strcopy.i: Chapter-05/strcopy.c.i
+
+.PHONY : Chapter-05/strcopy.i
+
+# target to preprocess a source file
+Chapter-05/strcopy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.i
+.PHONY : Chapter-05/strcopy.c.i
+
+Chapter-05/strcopy.s: Chapter-05/strcopy.c.s
+
+.PHONY : Chapter-05/strcopy.s
+
+# target to generate assembly for a file
+Chapter-05/strcopy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.s
+.PHONY : Chapter-05/strcopy.c.s
+
+Chapter-05/strlength.o: Chapter-05/strlength.c.o
+
+.PHONY : Chapter-05/strlength.o
+
+# target to build an object file
+Chapter-05/strlength.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o
+.PHONY : Chapter-05/strlength.c.o
+
+Chapter-05/strlength.i: Chapter-05/strlength.c.i
+
+.PHONY : Chapter-05/strlength.i
+
+# target to preprocess a source file
+Chapter-05/strlength.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.i
+.PHONY : Chapter-05/strlength.c.i
+
+Chapter-05/strlength.s: Chapter-05/strlength.c.s
+
+.PHONY : Chapter-05/strlength.s
+
+# target to generate assembly for a file
+Chapter-05/strlength.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Practices.dir/build.make CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.s
+.PHONY : Chapter-05/strlength.c.s
 
 # Help Target
 help:
@@ -926,12 +1034,24 @@ help:
 	@echo "... Chapter-04/patterns.o"
 	@echo "... Chapter-04/patterns.i"
 	@echo "... Chapter-04/patterns.s"
+	@echo "... Chapter-05/allocator.o"
+	@echo "... Chapter-05/allocator.i"
+	@echo "... Chapter-05/allocator.s"
 	@echo "... Chapter-05/getint.o"
 	@echo "... Chapter-05/getint.i"
 	@echo "... Chapter-05/getint.s"
 	@echo "... Chapter-05/pointers.o"
 	@echo "... Chapter-05/pointers.i"
 	@echo "... Chapter-05/pointers.s"
+	@echo "... Chapter-05/strcompare.o"
+	@echo "... Chapter-05/strcompare.i"
+	@echo "... Chapter-05/strcompare.s"
+	@echo "... Chapter-05/strcopy.o"
+	@echo "... Chapter-05/strcopy.i"
+	@echo "... Chapter-05/strcopy.s"
+	@echo "... Chapter-05/strlength.o"
+	@echo "... Chapter-05/strlength.i"
+	@echo "... Chapter-05/strlength.s"
 .PHONY : help
 
 

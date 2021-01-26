@@ -415,6 +415,58 @@ CMakeFiles/C_Practices.dir/Chapter-05/getint.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-05/getint.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/getint.c" -o CMakeFiles/C_Practices.dir/Chapter-05/getint.c.s
 
+CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o: ../Chapter-05/strlength.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strlength.c"
+
+CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strlength.c" > CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strlength.c" -o CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o: ../Chapter-05/allocator.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/allocator.c"
+
+CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/allocator.c" > CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/allocator.c" -o CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o: ../Chapter-05/strcopy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcopy.c"
+
+CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcopy.c" > CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcopy.c" -o CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.s
+
+CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o: CMakeFiles/C_Practices.dir/flags.make
+CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o: ../Chapter-05/strcompare.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o   -c "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcompare.c"
+
+CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcompare.c" > CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.i
+
+CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/sergiy/Desktop/C - Learning/C-Practices/Chapter-05/strcompare.c" -o CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.s
+
 # Object files for target C_Practices
 C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-01/hello.c.o" \
@@ -442,7 +494,11 @@ C_Practices_OBJECTS = \
 "CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o" \
 "CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o" \
-"CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o"
+"CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o" \
+"CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o"
 
 # External object files for target C_Practices
 C_Practices_EXTERNAL_OBJECTS =
@@ -473,9 +529,13 @@ C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/macro.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-04/conditional.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/pointers.c.o
 C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/getint.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/strlength.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/allocator.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/strcopy.c.o
+C_Practices: CMakeFiles/C_Practices.dir/Chapter-05/strcompare.c.o
 C_Practices: CMakeFiles/C_Practices.dir/build.make
 C_Practices: CMakeFiles/C_Practices.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Linking C executable C_Practices"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sergiy/Desktop/C - Learning/C-Practices/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_31) "Linking C executable C_Practices"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Practices.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
