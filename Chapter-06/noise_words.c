@@ -51,9 +51,17 @@ struct key noisetab[] = {
 	{ "were", 0},
 	{ "with", 0},
 };
+int getch(void){
+	return (bufp > 0) ? buf[--bufp] : getchar();
+}
+void ungetch(int c){
+	if (bufp >= BUFSIZE)
+		printf("ungetch: too many characters\n");
+	else
+		buf[bufp++] = c;
+}
 int getword(char *word, int lim){
-	int c, getch(void);
-	void ungetch(int);
+	int c;
 	char *w = word;
 
 	while (isblank(c = getch()))
@@ -72,15 +80,7 @@ int getword(char *word, int lim){
 	*w = '\0';
 	return word[0];
 }
-int getch(void){
-	return (bufp > 0) ? buf[--bufp] : getchar();
-}
-void ungetch(int c){
-	if (bufp >= BUFSIZE)
-		printf("ungetch: too many characters\n");
-	else
-		buf[bufp++] = c;
-}
+
 struct tnode *talloc(void){
 	return malloc(sizeof(struct tnode));
 }
